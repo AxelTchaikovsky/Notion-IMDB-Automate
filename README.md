@@ -38,7 +38,7 @@ https://www.imdb.com/title/tt0103074/
 
 Adds the corresponding pages with image to your notion database:
 
-![Screenshot 2023-04-22 at 2.09.41 AM](README.assets/Screenshot 2023-04-22 at 2.09.41 AM.png)
+![Screenshot 2023-04-22 at 2.09.41 AM](README.assets/img1.png)
 
 Note: You need to have a Notion API key and database ID to use this tool. Add your secret key and database ID to `secrets_notion.py` like below.
 
